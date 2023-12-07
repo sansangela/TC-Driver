@@ -1,0 +1,3 @@
+<launch>
+  <node name="csv_to_rosbag_node" pkg="csv_to_rosbag" type="csv_to_rosbag.py" output="screen"/>
+</launch>
